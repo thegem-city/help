@@ -20,3 +20,6 @@ This instance is located in central Ohio and runs Mastodon 3.5.3.
 
 The help site was built using [Zola](https://www.getzola.org/) and [AdiDoks](https://github.com/aaranxu/adidoks).
 
+## Source Code
+
+The content for the help site: [github.com/thegem-city/help](https://github.com/thegem-city/help)
