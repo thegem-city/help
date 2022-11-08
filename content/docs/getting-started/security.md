@@ -18,7 +18,7 @@ top = false
 
 This server supports multi-factor authentication and all users are strongly encouraged to use this feature.
 
-To enable either a one time password generator (supported by Google Authenticator, BitWarden, 1Password, and others) or to use a physical hardware security key, please vis the <a href="https://thegem.city/settings/two_factor_authentication_methods">https://thegem.city/settings/two_factor_authentication_methods</a> page under "Preferences > Account > Two-factor Auth "
+To enable either a one time password generator (supported by Google Authenticator, BitWarden, 1Password, and others) or to use a physical hardware security key, please go to <a href="https://thegem.city/settings/two_factor_authentication_methods">Preferences > Account > Two-factor Auth</a>.
 
 ## Keyoxide
 
