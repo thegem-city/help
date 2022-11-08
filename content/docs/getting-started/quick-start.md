@@ -42,10 +42,6 @@ To join the server, you'll need a valid email address that you have access to.
 2. Use the account creation form to enter your username, email address, and password.
 3. Give a brief explanation as to how you are associated with Dayton, Ohio.
 
-### What About Bots?
-
-TBD
-
 ## Account Approval
 
 Once you create an account, it won't immediately be available to use. You'll need to verify your email address and wait for your account to be approved.
