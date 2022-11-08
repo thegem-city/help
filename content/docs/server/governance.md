@@ -23,3 +23,5 @@ The questions that we'd like to answer include:
 * What happens when a user violates server rules?
 * What happens when a remote user or instance are harmful to our community?
 * How do we respond to questions and reports?
+* How do we onboard moderators and admin?
+* How do we decide how to govern ourselves?
