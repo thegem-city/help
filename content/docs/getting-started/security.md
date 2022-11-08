@@ -30,10 +30,10 @@ For cryptographic identity claims, we suggest using [Keyoxide](https://keyoxide.
    1. Select the uid (command `uid 1`)
    2. Create a notation (command `notation`) with the value `proof@ariadne.id=https://thegem.city/@name`
    3. Save the changes (command `save`)
-5. Upload your key to https://keys.openpgp.org
+5. Upload your key to [keys.openpgp.org](https://keys.openpgp.org)
 
 You can then verify your key claim on `https://keyoxide.org/hkp/[fingerprint]`.
 
 Example:
-* Profile: https://thegem.city/@nick
-* Proof: https://keyoxide.org/hkp/8298D48681C260B66A4FFA59FD9B9F77EA58CD5F
+* Profile: [thegem.city/@nick](https://thegem.city/@nick)
+* Proof: [keyoxide.org/hkp/8298D48681C260B66A4FFA59FD9B9F77EA58CD5F](https://keyoxide.org/hkp/8298D48681C260B66A4FFA59FD9B9F77EA58CD5F)
