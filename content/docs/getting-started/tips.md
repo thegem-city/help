@@ -42,7 +42,7 @@ The general practice is to provide a content warning more often than not. For so
 
 There is no defined or set list of things (other than nost listed in our server rules) to apply content warnings to, but here are some suggestions:
 
-* Anything sexually explicit or suggestive. This includes NSFW content that may involve nudity, but also extends to thirst posts and adult humor. There is a lot of grey are.
+* Anything sexually explicit or suggestive. This includes NSFW content that may involve nudity, but also extends to thirst posts and adult humor. There is a lot of grey area.
 * News or current events. This also includes discussions or talks about war and displacement.
 * Politics.
 * Discussions that have been exhausted. For example, Twitter and Elon Musk are subjects that have had a lot of activity and if you are aware that society needs to move on from those subjects, but still have something to say, use a content warning.
